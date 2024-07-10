@@ -1,5 +1,5 @@
 {
-  "name": "publishing-packages",
+  "name": "rc111",
   "version": "1.0.0",
   "description": "A react Component Library",
   "scripts": {
@@ -24,4 +24,5 @@
     "dist"
   ],
   "types": "dist;/index.d.ts"
+
 }
